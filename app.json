@@ -1,5 +1,7 @@
 {
-  "name": "Monica CRM",
-  "description": "A barebones Node.js app using Express",
+  "name": "Monica meu crm",
+  "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/angelcosta/monica",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
 }
